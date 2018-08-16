@@ -1,4 +1,4 @@
-// DFS O(n) ，直观排序解法是 O(n)
+// DFS O(n) ，直观排序解法是 O(nlogn)
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
